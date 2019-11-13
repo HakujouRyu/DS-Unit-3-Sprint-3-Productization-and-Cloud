@@ -14,10 +14,13 @@
 ## Day Two
 
 - What went well today?
+I learned some bootstrap studio
 
 - What was particularly interesting or surprising about the topic(s) today?
+The whole of Flask is interesting to me.
 
 - What was the most challenging part of the work today, and why?
+Same as before the routing I need more help on.
 
 ## Day Three
 
